@@ -7,6 +7,7 @@ Eingabe: 101100
 Ausgabe: 44 
 """
 
+
 """
 teil 2
 Erstelle ein Funktion, das zu einer Zahl in Dezimaldarstellung die entsprechende
@@ -20,8 +21,6 @@ Ausgabe: 101100
 teil 3
 lagere die beiden Funktionenn aus und rufe sie über main.py auf
 """
-
-
 
 
 
