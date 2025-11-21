@@ -4,7 +4,7 @@ Erstelle eine Funktion, das zu einer Zahl in Binärdarstellung die entsprechende
 der Dezimaldarstellung ausgibt.
 Bsp.:
 Eingabe: 101100
-Ausgabe: 44
+Ausgabe: 44 
 """
 
 """
